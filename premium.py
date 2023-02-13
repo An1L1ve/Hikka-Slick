@@ -49,7 +49,7 @@ class NekosLifeMod(loader.Module):
         """Premium govno"""
         await utils.answer(
             message,
-            "<emoji document_id=4956562374648660535>❕</emoji>"
+            "<emoji document_id=5796226208978964012>⭐️</emoji>"
             f"{(random.choice(phrases))}",
         )
 
