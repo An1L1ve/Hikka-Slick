@@ -4,7 +4,7 @@
 # Description: Premium prank
 # Author: Slick
 # Commands:
-# /premium
+# premium
 # ---------------------------------------------------------------------------------
 
 
@@ -18,7 +18,7 @@
 
 # meta developer: @Wiseslick
 # scope: SlPrem
-# scope: SlPrem 0.0.1
+# scope: SlPrem 0.0.2
 
 import asyncio
 import functools
